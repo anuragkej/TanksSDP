@@ -1,6 +1,6 @@
 # TanksSDP
 Created a Tanks game along with a partner that utilizes the C++ Proteus Libraries.
-- Created a full menu UI with 4 options for the user:
+- Created a full interactive menu UI with 4 options for the user:
    * Start
    * Instructions
    * Statistics
