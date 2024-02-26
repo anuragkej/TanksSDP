@@ -16,7 +16,7 @@ Proposed Elements:
 * Projectiles
   * Tanks fire projectiles at opposing tanks.
 * Multiplayer mode
-  * Two player mode where each person controls one of the tanks.
+  * Two-player mode where each person controls one of the tanks.
  
 **Start Menu**
 <img width="958" alt="Screenshot 2023-12-19 at 11 29 34 AM" src="https://github.com/anuragkej/TanksSDP/assets/106197059/932a7b87-1297-41fb-8b61-2fd97d010882">
@@ -26,6 +26,7 @@ Proposed Elements:
 
 **Statistics Menu**
 <img width="956" alt="Screenshot 2023-12-19 at 11 30 16 AM" src="https://github.com/anuragkej/TanksSDP/assets/106197059/79c4c852-1209-4796-8570-8f883f519704">
+
 
 **High-Level Flowchart**
 <img width="652" alt="Screenshot 2023-12-19 at 11 52 37 AM" src="https://github.com/anuragkej/TanksSDP/assets/106197059/63f94b93-3acf-407f-b4e2-9569776662b8">
